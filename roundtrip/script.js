@@ -35,5 +35,5 @@
   }
   document.getElementById('copy-ca').addEventListener('click',function(){var t=document.getElementById('ca-text');copyText(this,t.textContent,t)});
   document.getElementById('copy-credit').addEventListener('click',function(){var t=document.getElementById('credit-text');copyText(this,t.textContent,t)});
-  document.getElementById('share').addEventListener('click',function(){copyText(this,'https://linktr.ee/bbgm21e8',null)});
+  document.getElementById('share').addEventListener('click',function(){copyText(this,'https://bubblegum.baby',null)});
 })();
